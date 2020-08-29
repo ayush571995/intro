@@ -1,0 +1,12 @@
+<span id="a">ayush@saluja</span>:<span id="b">~</span><span id="c">$</span> cd /<!-- laglaglaglaglaglag -->About_Us
+<span id="a">ayush@saluja</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->ayush.saluja.txt<br/><br/>
+My favorite code quote, "<span id="k">Dedication, hard work all the time, and belief</span>". <!-- sjkfhskjf -->
+
+<p>Hey my name is Ayush Saluja.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p> I am Backend Developer at Swiggy. I have a total work ex of 3 years and counting. <a href="https://drive.google.com/file/d/1gzIePLihuZRAOOgClyi6yns4buaumbjz/view?usp=sharing"> You can find My Resume here </a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p>I have worked on the tech stack Java , Spring Boot, Mysql, Redis, Python, Go, GRPC, DynamoDB,etc. 
+<p> You can find me on LinkedIn , here: <br> <a href="https://www.linkedin.com/in/ayush571995/">LinkedIn</a> <br> <a href="https://github.com/ayush571995">Github</a></p>
+
+You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="ayush571995@outlook.com">Email</a>.
+
+<p>Cheers!</p>
